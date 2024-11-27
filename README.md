@@ -2,9 +2,7 @@
 
 ## Que es Miragua 2.0
 
-Se trata de un sensor de humedad capacitivo diseñado para medir la humedad del suelo. Su función es monitorear
-toda la información en una terminal, lo que permite optimizar y ajustar de manera efectiva el riego para
-promover un crecimiento óptimo de plantas y cultivos
+Miragua 2.0 es una proyecto pensado y diseniado con el fin de ayudar y apoyar a las personas que mantienen y gestionan plantaciones de variado tamanio. Miragua 2.0 es una dispositivo que analiza y procesa informacion en tiempo real de varios sensores, almacenando la informacion para analisis historicos y respondiendo a tal con reguladores, asegurando de mantener el area en las condiciones deseadas
 
 ## Beneficios
 
