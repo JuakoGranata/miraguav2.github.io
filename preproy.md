@@ -1,4 +1,6 @@
-## Miragua 2.0
+## Intorduccion
+
+En esta seccion se peude ver una galeria de fotos sobre la evolucion del proyecto, desde la primer simulacion hasta el montaje final y exposion en la Feria.
 
 ## Primera Simulacion
 
@@ -18,4 +20,5 @@
 
 ## Armado final
 
-[Armado Final](armado.md)
+![Armado final](https://github.com/user-attachments/assets/2dd0fda7-60a7-43c6-8915-73809c4886f8)
+
