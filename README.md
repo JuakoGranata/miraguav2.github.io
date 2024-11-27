@@ -16,3 +16,9 @@ promover un crecimiento óptimo de plantas y cultivos
 
 ![0B254CEE-D4CD-461C-8B44-6D42E89C9A07](https://github.com/user-attachments/assets/5a1b5cb3-946a-4204-a77c-384d94508c2f)
 
+![05611980-6BF9-4645-970D-8D85E96E5F28](https://github.com/user-attachments/assets/5096632a-e9a2-4bd0-ae62-0151ed98edd6)
+
+# El DreamTeam
+
+![WhatsApp Image 2024-11-27 at 13 30 18](https://github.com/user-attachments/assets/ed8050a9-ee66-4bf0-9e9d-bb2be55f9f2a)
+
