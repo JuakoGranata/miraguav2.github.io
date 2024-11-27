@@ -7,7 +7,8 @@ toda la información en una terminal, lo que permite optimizar y ajustar de mane
 promover un crecimiento óptimo de plantas y cultivos
 
 # Beneficios
-![beneficios miragua](https://github.com/user-attachments/assets/4aa91732-8679-4ba3-be63-7b6f83c31cd6)
+
+![beneficios miragua](https://github.com/user-attachments/assets/f112fb2c-7070-4fba-bbd0-bc888da673b1)
 
 # Miragua en Fotos
 
