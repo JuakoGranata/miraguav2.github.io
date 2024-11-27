@@ -16,6 +16,8 @@ En esta seccion se peude ver una galeria de fotos sobre la evolucion del proyect
 ![Imagen 3](https://github.com/user-attachments/assets/8cbe4235-211e-4f58-ab77-83ce8d70bbaa)
 ![Imagen 4](https://github.com/user-attachments/assets/b5f938af-7668-48d0-8dfd-d3972652ec7e)
 ![Imagen 5](https://github.com/user-attachments/assets/ca643bc2-a9b9-407b-bdc9-afae3d8d02f4)
+![PCB-Driver](https://github.com/user-attachments/assets/0c1df87c-7aec-4e53-a7ec-9cc71b05033c)
+
 ![Imagen 6](https://github.com/user-attachments/assets/949e1265-b7f1-4ec3-a7e3-88d1374d8736)
 
 ## Armado final
