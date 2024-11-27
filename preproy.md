@@ -1,4 +1,4 @@
-## Intorduccion
+## Introduccion
 
 En esta seccion se peude ver una galeria de fotos sobre la evolucion del proyecto, desde la primer simulacion hasta el montaje final y exposion en la Feria.
 
